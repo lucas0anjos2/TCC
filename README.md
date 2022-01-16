@@ -7,3 +7,4 @@ Natureza dos dados:
  - Período de 2019 a 2020;
 
 Inclusa também uma cópia da Monografia em PDF. 
+Dados de consumo de energia cedidos pelo setor de planejamento do campus. Dados de geração de energia obtidos através do portal do campus: https://www.bambui.ifmg.edu.br/portal/. Dados meteorológicos obtidos através do Banco de Dados Meteorológicos do INMET: https://bdmep.inmet.gov.br/#.
